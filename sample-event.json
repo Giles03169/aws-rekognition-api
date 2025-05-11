@@ -1,0 +1,9 @@
+{
+  "labels": [
+    {
+      "Name": "Cat",
+      "Confidence": 97.8
+    },
+    ...
+  ]
+}
